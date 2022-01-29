@@ -1,6 +1,6 @@
 region = "us-east-1"
-access_key = "AKIA2OVNDQZQGIZ5T4R7"
-secret_key = "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"
+access_key = ""
+secret_key = ""
 #vpc
 vpc_cidr = "10.0.0.0/16"
 vpc_name = "project"
